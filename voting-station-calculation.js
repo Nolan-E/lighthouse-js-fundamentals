@@ -2,10 +2,9 @@ const allStations = [
   ['Big Bear Donair', 10, 'restaurant'],
   ['Bright Lights Elementary', 50, 'school'],
   ['Moose Mountain Community Centre', 45, 'community centre'],
-  ['Codeville Higher Learning', 15 'school'],
+  ['Codeville Higher Learning', 15, 'school'],
   ['Farro Pizza', 50, 'restaurant'],
   ['Legacy Lake Hall', 150, 'community centre']
-  ]
 ];
 
 const chooseStations = function (stations) {
